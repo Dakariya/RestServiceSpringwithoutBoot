@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.zharnikova.example.App
+Class-Path: spring-expression-6.1.6.jar spring-jcl-6.1.6.jar spring-bean
+ s-6.1.6.jar micrometer-commons-1.12.5.jar spring-core-6.1.6.jar microme
+ ter-observation-1.12.5.jar spring-context-6.1.6.jar spring-aop-6.1.6.ja
+ r
+
